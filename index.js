@@ -12,12 +12,12 @@ const data = {
 
 async function* parseFilms() {
     const startUrls = [
-        'http://hdrzk.org/films/page/1/',
-        'http://hdrzk.org/series/page/1/',
-        'http://hdrzk.org/cartoons/page/1/',
-        'http://hdrzk.org/animation/page/1/',
-        'http://hdrzk.org/show/page/1/',
-        'http://hdrzk.org/announce/page/1/',
+        'http://rezka.ag/films/page/1/',
+        'http://rezka.ag/series/page/1/',
+        'http://rezka.ag/cartoons/page/1/',
+        'http://rezka.ag/animation/page/1/',
+        'http://rezka.ag/show/page/1/',
+        'http://rezka.ag/announce/page/1/',
     ];
     let curr = 0;
 
